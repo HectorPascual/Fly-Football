@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Albert Risco\\AndroidStudioProjects\\SkyFootball\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Albert Risco\\AndroidStudioProjects\\SkyFootball\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Albert Risco\\AndroidStudioProjects\\SkyFootball\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Albert Risco\\AndroidStudioProjects\\SkyFootball\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

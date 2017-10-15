@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Albert Risco\.android\build-cache\1c374ce4f004ab10368b0eec44b018f53aa00402\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Albert Risco\.android\build-cache\f5e1b72bc411e7a783201c852cdd1debfff8976a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Albert Risco\.android\build-cache\5c112c694349a70cc190a2b8fe0519f7a37a541c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Albert Risco\.android\build-cache\ffd4e917e66adec8d3a4e712ade72b2dc232fec4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Albert Risco\.android\build-cache\19f3d5ec27f1276e38ec8f59af282da81b55b307\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Albert Risco\.android\build-cache\349c83bfd5ce80483a75565d3cc94e7e63436527\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Albert Risco\.android\build-cache\c5369a920a3abdc2faa5e7b993c0f9b0f2162122\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Albert Risco\.android\build-cache\6847e436155050ac10bbfce6dc47a08d0e8c9602\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Albert Risco\.android\build-cache\b1c95bb4cda624c30d16b48258daea404924e4f3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Albert Risco\.android\build-cache\62309ef341c864824a515bbbf00b91534a2068c0\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.android.skyfootball.SearchActivity
+ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:14:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.android.skyfootball.MatchesActivity
+ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:21:9-23:20
+	android:name
+		ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:21:19-50
+activity#com.example.android.skyfootball.FlightsActivity
+ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:24:9-26:20
+	android:name
+		ADDED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml:24:19-50
+uses-sdk
+INJECTED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Albert Risco\.android\build-cache\1c374ce4f004ab10368b0eec44b018f53aa00402\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Albert Risco\.android\build-cache\f5e1b72bc411e7a783201c852cdd1debfff8976a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Albert Risco\.android\build-cache\5c112c694349a70cc190a2b8fe0519f7a37a541c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Albert Risco\.android\build-cache\ffd4e917e66adec8d3a4e712ade72b2dc232fec4\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Albert Risco\.android\build-cache\19f3d5ec27f1276e38ec8f59af282da81b55b307\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Albert Risco\.android\build-cache\349c83bfd5ce80483a75565d3cc94e7e63436527\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Albert Risco\.android\build-cache\c5369a920a3abdc2faa5e7b993c0f9b0f2162122\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Albert Risco\.android\build-cache\6847e436155050ac10bbfce6dc47a08d0e8c9602\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Albert Risco\.android\build-cache\b1c95bb4cda624c30d16b48258daea404924e4f3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Albert Risco\.android\build-cache\62309ef341c864824a515bbbf00b91534a2068c0\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Albert Risco\.android\build-cache\1c374ce4f004ab10368b0eec44b018f53aa00402\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Albert Risco\.android\build-cache\1c374ce4f004ab10368b0eec44b018f53aa00402\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Albert Risco\.android\build-cache\f5e1b72bc411e7a783201c852cdd1debfff8976a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Albert Risco\.android\build-cache\5c112c694349a70cc190a2b8fe0519f7a37a541c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Albert Risco\.android\build-cache\ffd4e917e66adec8d3a4e712ade72b2dc232fec4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Albert Risco\.android\build-cache\19f3d5ec27f1276e38ec8f59af282da81b55b307\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Albert Risco\.android\build-cache\349c83bfd5ce80483a75565d3cc94e7e63436527\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Albert Risco\.android\build-cache\c5369a920a3abdc2faa5e7b993c0f9b0f2162122\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Albert Risco\.android\build-cache\6847e436155050ac10bbfce6dc47a08d0e8c9602\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Albert Risco\.android\build-cache\b1c95bb4cda624c30d16b48258daea404924e4f3\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Albert Risco\.android\build-cache\1c374ce4f004ab10368b0eec44b018f53aa00402\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Albert Risco\.android\build-cache\1c374ce4f004ab10368b0eec44b018f53aa00402\output\AndroidManifest.xml:26:9-47

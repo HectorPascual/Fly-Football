@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albert Risco\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_949510b1c513de63a649f651366645eaec549ecf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albert Risco\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_c147f13ebc167a6b00b5e0f4ad9b2160c920e3ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\libs\java-json.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="edad9c5de6fb8df07c535a47045956026011ffa3">
+        <dex dex="C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\build\intermediates\pre-dexed\debug\java-json_0848a93139d2b7024c142d40ff3626c0ce98039e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_dc15dcde4538c8dfcff23327b687d4a84a218552\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="237039e49cc0a48a136a542bd7e92c7cd31b204e">
+        <dex dex="C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1c81633417366a57a19f57ada1ebf04ef3966338\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albert Risco\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_2797c1cdf089371ff9860fab9cad6d42f483cf4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albert Risco\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_55c964ef4aba7295bbe7609199c75006a891efab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albert Risco\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_05988bb5eecb24ac9c094a23bba28a3c1b5c45b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\libs\java-json.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="edad9c5de6fb8df07c535a47045956026011ffa3">
+        <dex dex="C:\Users\Albert Risco\AndroidStudioProjects\SkyFootball\app\build\intermediates\transforms\dex\debug\folders\1000\2\java-json_0848a93139d2b7024c142d40ff3626c0ce98039e\classes.dex" />
+    </item>
+
+</items>
